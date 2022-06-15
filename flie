@@ -1,0 +1,4 @@
+[custom]
+ruleset=TEXON,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Global/Global.list
+
+custom_proxy_group=🚀 手动切换`select`.*
